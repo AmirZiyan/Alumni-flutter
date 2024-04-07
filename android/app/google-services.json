@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "935152729425",
+    "project_id": "alumni-management-system-f387a",
+    "storage_bucket": "alumni-management-system-f387a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935152729425:android:c38780098b98b12dcba770",
+        "android_client_info": {
+          "package_name": "com.example.alumni_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRT-egKkquYr4HqZgOC6Dk7iZANIMso_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
